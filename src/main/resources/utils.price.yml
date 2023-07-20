@@ -1,0 +1,2490 @@
+STONE:
+  buy: 4
+  sell: 2
+GRANITE:
+  buy: 3
+  sell: 2
+POLISHED_GRANITE:
+  buy: 4
+  sell: 3
+DIORITE:
+  buy: 3
+  sell: 2
+POLISHED_DIORITE:
+  buy: 4
+  sell: 3
+ANDESITE:
+  buy: 3
+  sell: 2
+POLISHED_ANDESITE:
+  buy: 4
+  sell: 2
+GRASS_BLOCK:
+  buy: 3
+  sell: 1
+DIRT:
+  buy: 2
+  sell: 1
+COARSE_DIRT:
+  buy: 3
+  sell: 2
+PODZOL:
+  buy: 3
+  sell: 2
+CRIMSON_NYLIUM:
+  buy: 3
+  sell: 2
+WARPED_NYLIUM:
+  buy: 3
+  sell: 2
+COBBLESTONE:
+  buy: 3
+  sell: 1
+OAK_PLANKS:
+  buy: 2
+  sell: 1
+SPRUCE_PLANKS:
+  buy: 2
+  sell: 1
+BIRCH_PLANKS:
+  buy: 2
+  sell: 1
+JUNGLE_PLANKS:
+  buy: 2
+  sell: 1
+ACACIA_PLANKS:
+  buy: 3
+  sell: 2
+DARK_OAK_PLANKS:
+  buy: 3
+  sell: 2
+CRIMSON_PLANKS:
+  buy: 4
+  sell: 3
+WARPED_PLANKS:
+  buy: 4
+  sell: 3
+SAND:
+  buy: 3
+  sell: 2
+RED_SAND:
+  buy: 4
+  sell: 2
+GRAVEL:
+  buy: 3
+  sell: 1
+GOLD_ORE:
+  buy: 15
+  sell: 7
+IRON_ORE:
+  buy: 10
+  sell: 5
+COAL_ORE:
+  buy: 5
+  sell: 3
+NETHER_GOLD_ORE:
+  buy: 25
+  sell: 8
+OAK_LOG:
+  buy: 8
+  sell: 4
+SPRUCE_LOG:
+  buy: 8
+  sell: 4
+BIRCH_LOG:
+  buy: 8
+  sell: 4
+JUNGLE_LOG:
+  buy: 8
+  sell: 4
+ACACIA_LOG:
+  buy: 8
+  sell: 4
+DARK_OAK_LOG:
+  buy: 8
+  sell: 4
+CRIMSON_STEM:
+  buy: 8
+  sell: 4
+WARPED_STEM:
+  buy: 8
+  sell: 4
+STRIPPED_OAK_LOG:
+  buy: 4
+  sell: 2
+STRIPPED_SPRUCE_LOG:
+  buy: 4
+  sell: 2
+STRIPPED_BIRCH_LOG:
+  buy: 4
+  sell: 2
+STRIPPED_JUNGLE_LOG:
+  buy: 4
+  sell: 2
+STRIPPED_ACACIA_LOG:
+  buy: 4
+  sell: 2
+STRIPPED_DARK_OAK_LOG:
+  buy: 4
+  sell: 2
+STRIPPED_CRIMSON_STEM:
+  buy: 5
+  sell: 2
+STRIPPED_WARPED_STEM:
+  buy: 5
+  sell: 2
+STRIPPED_OAK_WOOD:
+  buy: 4
+  sell: 3
+STRIPPED_SPRUCE_WOOD:
+  buy: 4
+  sell: 3
+STRIPPED_BIRCH_WOOD:
+  buy: 4
+  sell: 3
+STRIPPED_JUNGLE_WOOD:
+  buy: 4
+  sell: 3
+STRIPPED_ACACIA_WOOD:
+  buy: 4
+  sell: 3
+STRIPPED_DARK_OAK_WOOD:
+  buy: 4
+  sell: 3
+STRIPPED_CRIMSON_HYPHAE:
+  buy: 5
+  sell: 3
+STRIPPED_WARPED_HYPHAE:
+  buy: 5
+  sell: 3
+OAK_WOOD:
+  buy: 8
+  sell: 6
+SPRUCE_WOOD:
+  buy: 8
+  sell: 6
+BIRCH_WOOD:
+  buy: 8
+  sell: 6
+JUNGLE_WOOD:
+  buy: 8
+  sell: 6
+DARK_OAK_WOOD:
+  buy: 8
+  sell: 6
+CRIMSON_HYPHAE:
+  buy: 9
+  sell: 7
+WARPED_HYPHAE:
+  buy: 9
+  sell: 7
+SPONGE:
+  buy: 15
+  sell: 8
+WET_SPONGE:
+  buy: 12
+  sell: 6
+GLASS:
+  buy: 14
+  sell: 7
+LAPIS_ORE:
+  buy: 12
+  sell: 5
+LAPIS_BLOCK:
+  buy: 40
+  sell: 20
+SANDSTONE:
+  buy: 12
+  sell: 10
+CHISELED_SANDSTONE:
+  buy: 14
+  sell: 12
+CUT_SANDSTONE:
+  buy: 14
+  sell: 12
+WHITE_WOOL:
+  buy: 8
+  sell: 3
+ORANGE_WOOL:
+  buy: 9
+  sell: 4
+MAGENTA_WOOL:
+  buy: 9
+  sell: 4
+LIGHT_BLUE_WOOL:
+  buy: 9
+  sell: 4
+YELLOW_WOOL:
+  buy: 9
+  sell: 4
+LIME_WOOL:
+  buy: 9
+  sell: 4
+PINK_WOOL:
+  buy: 9
+  sell: 4
+GRAY_WOOL:
+  buy: 9
+  sell: 4
+LIGHT_GRAY_WOOL:
+  buy: 9
+  sell: 4
+CYAN_WOOL:
+  buy: 9
+  sell: 4
+PURPLE_WOOL:
+  buy: 9
+  sell: 4
+BLUE_WOOL:
+  buy: 9
+  sell: 4
+BROWN_WOOL:
+  buy: 9
+  sell: 4
+GREEN_WOOL:
+  buy: 9
+  sell: 4
+RED_WOOL:
+  buy: 9
+  sell: 4
+BLACK_WOOL:
+  buy: 9
+  sell: 4
+GOLD_BLOCK:
+  buy: 240
+  sell: 120
+IRON_BLOCK:
+  buy: 120
+  sell: 60
+OAK_SLAB:
+  buy: 2
+  sell: 1
+SPRUCE_SLAB:
+  buy: 2
+  sell: 1
+BIRCH_SLAB:
+  buy: 2
+  sell: 1
+ACACIA_SLAB:
+  buy: 2
+  sell: 1
+DARK_OAK_SLAB:
+  buy: 2
+  sell: 1
+CRIMSON_SLAB:
+  buy: 2
+  sell: 1
+WARPED_SLAB:
+  buy: 2
+  sell: 1
+STONE_SLAB:
+  buy: 2
+  sell: 1
+SMOOTH_STONE_SLAB:
+  buy: 2
+  sell: 1
+SANDSTONE_SLAB:
+  buy: 2
+  sell: 1
+CUT_SANDSTONE_SLAB:
+  buy: 2
+  sell: 1
+PETRIFIED_OAK_SLAB:
+  buy: 2
+  sell: 1
+COBBLESTONE_SLAB:
+  buy: 2
+  sell: 1
+BRICK_SLAB:
+  buy: 3
+  sell: 2
+STONE_BRICK_SLAB:
+  buy: 4
+  sell: 2
+NETHER_BRICK_SLAB:
+  buy: 5
+  sell: 3
+QUARTZ_SLAB:
+  buy: 4
+  sell: 3
+RED_SANDSTONE_SLAB:
+  buy: 4
+  sell: 3
+CUT_RED_SANDSTONE_SLAB:
+  buy: 4
+  sell: 3
+PURPUR_SLAB:
+  buy: 8
+  sell: 4
+PRISMARINE_SLAB:
+  buy: 6
+  sell: 3
+PRISMARINE_BRICK_SLAB:
+  buy: 6
+  sell: 3
+DARK_PRISMARINE_SLAB:
+  buy: 6
+  sell: 3
+SMOOTH_QUARTZ:
+  buy: 6
+  sell: 4
+SMOOTH_SANDSTONE:
+  buy: 4
+  sell: 2
+SMOOTH_STONE:
+  buy: 6
+  sell: 4
+BRICKS:
+  buy: 6
+  sell: 4
+BOOKSHELF:
+  buy: 10
+  sell: 5
+MOSSY_COBBLESTONE:
+  buy: 6
+  sell: 4
+OBSIDIAN:
+  buy: 10
+  sell: 5
+PURPUR_BLOCK:
+  buy: 10
+  sell: 6
+PURPUR_PILLAR:
+  buy: 12
+  sell: 6
+PURPUR_STAIRS:
+  buy: 12
+  sell: 6
+OAK_STAIRS:
+  buy: 3
+  sell: 1
+DIAMOND_ORE:
+  buy: 50
+  sell: 30
+DIAMOND_BLOCK:
+  buy: 500
+  sell: 300
+COBBLESTONE_STAIRS:
+  buy: 3
+  sell: 1
+REDSTONE_ORE:
+  buy: 14
+  sell: 12
+ICE:
+  buy: 5
+  sell: 3
+SNOW_BLOCK:
+  buy: 2
+  sell: 1
+CLAY:
+  buy: 2
+  sell: 1
+PUMPKIN:
+  buy: 4
+  sell: 2
+CARVED_PUMPKIN:
+  buy: 2
+  sell: 1
+NETHERRACK:
+  buy: 2
+  sell: 1
+SOUL_SAND:
+  buy: 2
+  sell: 1
+SOUL_SOIL:
+  buy: 2
+  sell: 1
+BASALT:
+  buy: 2
+  sell: 1
+POLISHED_BASALT:
+  buy: 2
+  sell: 1
+GLOWSTONE:
+  buy: 4
+  sell: 2
+JACK_O_LANTERN:
+  buy: 7
+  sell: 3
+STONE_BRICKS:
+  buy: 5
+  sell: 2
+MOSSY_STONE_BRICKS:
+  buy: 5
+  sell: 2
+CRACKED_STONE_BRICKS:
+  buy: 5
+  sell: 2
+CHISELED_STONE_BRICKS:
+  buy: 5
+  sell: 3
+MELON:
+  buy: 5
+  sell: 3
+BRICK_STAIRS:
+  buy: 3
+  sell: 1
+STONE_BRICK_STAIRS:
+  buy: 3
+  sell: 1
+MYCELIUM:
+  buy: 3
+  sell: 1
+NETHER_BRICKS:
+  buy: 3
+  sell: 1
+CRACKED_NETHER_BRICKS:
+  buy: 3
+  sell: 1
+CHISELED_NETHER_BRICKS:
+  buy: 3
+  sell: 1
+NETHER_BRICK_STAIRS:
+  buy: 3
+  sell: 1
+END_STONE:
+  buy: 4
+  sell: 3
+END_STONE_BRICKS:
+  buy: 4
+  sell: 3
+SANDSTONE_STAIRS:
+  buy: 3
+  sell: 1
+EMERALD_ORE:
+  buy: 30
+  sell: 10
+EMERALD_BLOCK:
+  buy: 250
+  sell: 120
+SPRUCE_STAIRS:
+  buy: 3
+  sell: 1
+BIRCH_STAIRS:
+  buy: 3
+  sell: 1
+JUNGLE_STAIRS:
+  buy: 3
+  sell: 1
+CRIMSON_STAIRS:
+  buy: 4
+  sell: 1
+WARPED_STAIRS:
+  buy: 4
+  sell: 1
+NETHER_QUARTZ_ORE:
+  buy: 4
+  sell: 3
+CHISELED_QUARTZ_BLOCK:
+  buy: 6
+  sell: 3
+QUARTZ_BLOCK:
+  buy: 6
+  sell: 3
+QUARTZ_PILLAR:
+  buy: 6
+  sell: 3
+QUARTZ_STAIRS:
+  buy: 3
+  sell: 2
+WHITE_TERRACOTTA:
+  buy: 3
+  sell: 1
+ORANGE_TERRACOTTA:
+  buy: 3
+  sell: 1
+MAGENTA_TERRACOTTA:
+  buy: 3
+  sell: 1
+LIGHT_BLUE_TERRACOTTA:
+  buy: 3
+  sell: 1
+YELLOW_TERRACOTTA:
+  buy: 3
+  sell: 1
+LIME_TERRACOTTA:
+  buy: 3
+  sell: 1
+PINK_TERRACOTTA:
+  buy: 3
+  sell: 1
+GRAY_TERRACOTTA:
+  buy: 3
+  sell: 1
+LIGHT_GRAY_TERRACOTTA:
+  buy: 3
+  sell: 1
+CYAN_TERRACOTTA:
+  buy: 3
+  sell: 1
+PURPLE_TERRACOTTA:
+  buy: 3
+  sell: 1
+BLUE_TERRACOTTA:
+  buy: 3
+  sell: 1
+BROWN_TERRACOTTA:
+  buy: 3
+  sell: 1
+GREEN_TERRACOTTA:
+  buy: 3
+  sell: 1
+RED_TERRACOTTA:
+  buy: 3
+  sell: 1
+BLACK_TERRACOTTA:
+  buy: 3
+  sell: 1
+HAY_BLOCK:
+  buy: 8
+  sell: 6
+TERRACOTTA:
+  buy: 2
+  sell: 1
+COAL_BLOCK:
+  buy: 100
+  sell: 60
+PACKED_ICE:
+  buy: 4
+  sell: 2
+ACACIA_STAIRS:
+  buy: 3
+  sell: 1
+DARK_OAK_STAIRS:
+  buy: 3
+  sell: 1
+WHITE_STAINED_GLASS:
+  buy: 4
+  sell: 2
+ORANGE_STAINED_GLASS:
+  buy: 4
+  sell: 2
+MAGENTA_STAINED_GLASS:
+  buy: 4
+  sell: 2
+LIGHT_BLUE_STAINED_GLASS:
+  buy: 4
+  sell: 2
+YELLOW_STAINED_GLASS:
+  buy: 4
+  sell: 2
+LIME_STAINED_GLASS:
+  buy: 4
+  sell: 2
+PINK_STAINED_GLASS:
+  buy: 4
+  sell: 2
+GRAY_STAINED_GLASS:
+  buy: 4
+  sell: 2
+LIGHT_GRAY_STAINED_GLASS:
+  buy: 4
+  sell: 2
+CYAN_STAINED_GLASS:
+  buy: 4
+  sell: 2
+PURPLE_STAINED_GLASS:
+  buy: 4
+  sell: 2
+BLUE_STAINED_GLASS:
+  buy: 4
+  sell: 2
+BROWN_STAINED_GLASS:
+  buy: 4
+  sell: 2
+GREEN_STAINED_GLASS:
+  buy: 4
+  sell: 2
+RED_STAINED_GLASS:
+  buy: 4
+  sell: 2
+BLACK_STAINED_GLASS:
+  buy: 4
+  sell: 2
+PRISMARINE:
+  buy: 4
+  sell: 2
+PRISMARINE_BRICKS:
+  buy: 4
+  sell: 2
+DARK_PRISMARINE:
+  buy: 4
+  sell: 2
+PRISMARINE_STAIRS:
+  buy: 4
+  sell: 1
+PRISMARINE_BRICK_STAIRS:
+  buy: 4
+  sell: 1
+DARK_PRISMARINE_STAIRS:
+  buy: 4
+  sell: 1
+SEA_LANTERN:
+  buy: 8
+  sell: 4
+RED_SANDSTONE:
+  buy: 3
+  sell: 1
+CHISELED_RED_SANDSTONE:
+  buy: 3
+  sell: 1
+CUT_RED_SANDSTONE:
+  buy: 3
+  sell: 1
+RED_SANDSTONE_STAIRS:
+  buy: 3
+  sell: 1
+MAGMA_BLOCK:
+  buy: 5
+  sell: 4
+NETHER_WART_BLOCK:
+  buy: 2
+  sell: 1
+WARPED_WART_BLOCK:
+  buy: 2
+  sell: 1
+RED_NETHER_BRICKS:
+  buy: 3
+  sell: 1
+BONE_BLOCK:
+  buy: 50
+  sell: 20
+WHITE_CONCRETE:
+  buy: 4
+  sell: 2
+ORANGE_CONCRETE:
+  buy: 4
+  sell: 2
+MAGENTA_CONCRETE:
+  buy: 4
+  sell: 2
+LIGHT_BLUE_CONCRETE:
+  buy: 4
+  sell: 2
+YELLOW_CONCRETE:
+  buy: 4
+  sell: 2
+LIME_CONCRETE:
+  buy: 4
+  sell: 2
+PINK_CONCRETE:
+  buy: 4
+  sell: 2
+GRAY_CONCRETE:
+  buy: 4
+  sell: 2
+LIGHT_GRAY_CONCRETE:
+  buy: 4
+  sell: 2
+CYAN_CONCRETE:
+  buy: 4
+  sell: 2
+PURPLE_CONCRETE:
+  buy: 4
+  sell: 2
+BLUE_CONCRETE:
+  buy: 4
+  sell: 2
+BROWN_CONCRETE:
+  buy: 4
+  sell: 2
+GREEN_CONCRETE:
+  buy: 4
+  sell: 2
+RED_CONCRETE:
+  buy: 4
+  sell: 2
+BLACK_CONCRETE:
+  buy: 4
+  sell: 2
+WHITE_CONCRETE_POWDER:
+  buy: 3
+  sell: 1
+ORANGE_CONCRETE_POWDER:
+  buy: 3
+  sell: 1
+MAGENTA_CONCRETE_POWDER:
+  buy: 3
+  sell: 1
+LIGHT_BLUE_CONCRETE_POWDER:
+  buy: 3
+  sell: 1
+YELLOW_CONCRETE_POWDER:
+  buy: 3
+  sell: 1
+LIME_CONCRETE_POWDER:
+  buy: 3
+  sell: 1
+PINK_CONCRETE_POWDER:
+  buy: 3
+  sell: 1
+GRAY_CONCRETE_POWDER:
+  buy: 3
+  sell: 1
+LIGHT_GRAY_CONCRETE_POWDER:
+  buy: 3
+  sell: 1
+CYAN_CONCRETE_POWDER:
+  buy: 3
+  sell: 1
+PURPLE_CONCRETE_POWDER:
+  buy: 3
+  sell: 1
+BLUE_CONCRETE_POWDER:
+  buy: 3
+  sell: 1
+BROWN_CONCRETE_POWDER:
+  buy: 3
+  sell: 1
+GREEN_CONCRETE_POWDER:
+  buy: 3
+  sell: 1
+RED_CONCRETE_POWDER:
+  buy: 3
+  sell: 1
+BLACK_CONCRETE_POWDER:
+  buy: 3
+  sell: 1
+DEAD_TUBE_CORAL_BLOCK:
+  buy: 4
+  sell: 1
+DEAD_BRAIN_CORAL_BLOCK:
+  buy: 4
+  sell: 1
+DEAD_BUBBLE_CORAL_BLOCK:
+  buy: 4
+  sell: 1
+DEAD_FIRE_CORAL_BLOCK:
+  buy: 4
+  sell: 1
+TUBE_CORAL_BLOCK:
+  buy: 6
+  sell: 3
+BRAIN_CORAL_BLOCK:
+  buy: 6
+  sell: 3
+BUBBLE_CORAL_BLOCK:
+  buy: 6
+  sell: 3
+FIRE_CORAL_BLOCK:
+  buy: 6
+  sell: 3
+HORN_CORAL_BLOCK:
+  buy: 6
+  sell: 3
+BLUE_ICE:
+  buy: 3
+  sell: 1
+POLISHED_GRANITE_STAIRS:
+  buy: 3
+  sell: 1
+SMOOTH_RED_SANDSTONE_STAIRS:
+  buy: 3
+  sell: 1
+MOSSY_STONE_BRICK_STAIRS:
+  buy: 3
+  sell: 1
+END_STONE_BRICK_STAIRS:
+  buy: 3
+  sell: 1
+STONE_STAIRS:
+  buy: 3
+  sell: 1
+SMOOTH_SANDSTONE_STAIRS:
+  buy: 3
+  sell: 1
+SMOOTH_QUARTZ_STAIRS:
+  buy: 3
+  sell: 1
+GRANITE_STAIRS:
+  buy: 3
+  sell: 1
+ANDESITE_STAIRS:
+  buy: 3
+  sell: 1
+RED_NETHER_BRICK_STAIRS:
+  buy: 3
+  sell: 1
+POLISHED_ANDESITE_STAIRS:
+  buy: 3
+  sell: 1
+DIORITE_STAIRS:
+  buy: 3
+  sell: 1
+POLISHED_GRANITE_SLAB:
+  buy: 3
+  sell: 1
+SMOOTH_RED_SANDSTONE_SLAB:
+  buy: 3
+  sell: 1
+MOSSY_STONE_BRICK_SLAB:
+  buy: 3
+  sell: 1
+POLISHED_DIORITE_SLAB:
+  buy: 3
+  sell: 1
+MOSSY_COBBLESTONE_SLAB:
+  buy: 3
+  sell: 1
+END_STONE_BRICK_SLAB:
+  buy: 3
+  sell: 1
+SMOOTH_SANDSTONE_SLAB:
+  buy: 3
+  sell: 1
+SMOOTH_QUARTZ_SLAB:
+  buy: 3
+  sell: 1
+GRANITE_SLAB:
+  buy: 3
+  sell: 1
+ANDESITE_SLAB:
+  buy: 3
+  sell: 1
+RED_NETHER_BRICK_SLAB:
+  buy: 3
+  sell: 1
+POLISHED_ANDESITE_SLAB:
+  buy: 3
+  sell: 1
+DIORITE_SLAB:
+  buy: 3
+  sell: 1
+DRIED_KELP_BLOCK:
+  buy: 9
+  sell: 4
+NETHERITE_BLOCK:
+  buy: 20000
+  sell: 9000
+ANCIENT_DEBRIS:
+  buy: 1000
+  sell: 900
+CRYING_OBSIDIAN:
+  buy: 50
+  sell: 30
+BLACKSTONE:
+  buy: 6
+  sell: 4
+BLACKSTONE_SLAB:
+  buy: 3
+  sell: 1
+BLACKSTONE_STAIRS:
+  buy: 3
+  sell: 1
+GILDED_BLACKSTONE:
+  buy: 7
+  sell: 5
+POLISHED_BLACKSTONE:
+  buy: 7
+  sell: 5
+POLISHED_BLACKSTONE_SLAB:
+  buy: 3
+  sell: 1
+POLISHED_BLACKSTONE_STAIRS:
+  buy: 3
+  sell: 1
+CRACKED_POLISHED_BLACKSTONE_BRICKS:
+  buy: 7
+  sell: 5
+OAK_SAPLING:
+  buy: 2
+  sell: 1
+SPRUCE_SAPLING:
+  buy: 2
+  sell: 1
+BIRCH_SAPLING:
+  buy: 2
+  sell: 1
+ACACIA_SAPLING:
+  buy: 2
+  sell: 1
+DARK_OAK_SAPLING:
+  buy: 2
+  sell: 1
+OAK_LEAVES:
+  buy: 2
+  sell: 1
+SPRUCE_LEAVES:
+  buy: 2
+  sell: 1
+BIRCH_LEAVES:
+  buy: 2
+  sell: 1
+JUNGLE_LEAVES:
+  buy: 2
+  sell: 1
+ACACIA_LEAVES:
+  buy: 2
+  sell: 1
+DARK_OAK_LEAVES:
+  buy: 2
+  sell: 1
+COBWEB:
+  buy: 4
+  sell: 3
+GRASS:
+  buy: 2
+  sell: 1
+FERN:
+  buy: 2
+  sell: 1
+DEAD_BUSH:
+  buy: 2
+  sell: 1
+SEAGRASS:
+  buy: 2
+  sell: 1
+SEA_PICKLE:
+  buy: 2
+  sell: 1
+DANDELION:
+  buy: 2
+  sell: 1
+POPPY:
+  buy: 2
+  sell: 1
+BLUE_ORCHID:
+  buy: 2
+  sell: 1
+ALLIUM:
+  buy: 2
+  sell: 1
+AZURE_BLUET:
+  buy: 2
+  sell: 1
+RED_TULIP:
+  buy: 2
+  sell: 1
+ORANGE_TULIP:
+  buy: 2
+  sell: 1
+WHITE_TULIP:
+  buy: 2
+  sell: 1
+PINK_TULIP:
+  buy: 2
+  sell: 1
+OXEYE_DAISY:
+  buy: 2
+  sell: 1
+CORNFLOWER:
+  buy: 2
+  sell: 1
+LILY_OF_THE_VALLEY:
+  buy: 2
+  sell: 1
+WITHER_ROSE:
+  buy: 3
+  sell: 1
+BROWN_MUSHROOM:
+  buy: 3
+  sell: 1
+RED_MUSHROOM:
+  buy: 3
+  sell: 2
+CRIMSON_FUNGUS:
+  buy: 2
+  sell: 1
+WARPED_FUNGUS:
+  buy: 2
+  sell: 1
+NETHER_SPROUTS:
+  buy: 2
+  sell: 1
+WEEPING_VINES:
+  buy: 2
+  sell: 1
+TWISTING_VINES:
+  buy: 2
+  sell: 1
+SUGAR_CANE:
+  buy: 2
+  sell: 1
+KELP:
+  buy: 2
+  sell: 1
+BAMBOO:
+  buy: 2
+  sell: 1
+TORCH:
+  buy: 2
+  sell: 1
+END_ROD:
+  buy: 4
+  sell: 3
+CHORUS_PLANT:
+  buy: 8
+  sell: 4
+CHORUS_FLOWER:
+  buy: 8
+  sell: 4
+CHEST:
+  buy: 8
+  sell: 2
+CRAFTING_TABLE:
+  buy: 4
+  sell: 3
+FURNACE:
+  buy: 10
+  sell: 5
+LADDER:
+  buy: 3
+  sell: 1
+SNOW:
+  buy: 2
+  sell: 1
+CACTUS:
+  buy: 2
+  sell: 1
+JUKEBOX:
+  buy: 12
+  sell: 6
+OAK_FENCE:
+  buy: 3
+  sell: 1
+SPRUCE_FENCE:
+  buy: 3
+  sell: 1
+BIRCH_FENCE:
+  buy: 3
+  sell: 1
+JUNGLE_FENCE:
+  buy: 3
+  sell: 1
+ACACIA_FENCE:
+  buy: 3
+  sell: 1
+DARK_OAK_FENCE:
+  buy: 3
+  sell: 1
+CRIMSON_FENCE:
+  buy: 3
+  sell: 1
+WARPED_FENCE:
+  buy: 3
+  sell: 1
+SOUL_TORCH:
+  buy: 3
+  sell: 2
+INFESTED_STONE:
+  buy: 2
+  sell: 1
+INFESTED_COBBLESTONE:
+  buy: 2
+  sell: 1
+INFESTED_MOSSY_STONE_BRICKS:
+  buy: 2
+  sell: 1
+INFESTED_CHISELED_STONE_BRICKS:
+  buy: 2
+  sell: 1
+RED_MUSHROOM_BLOCK:
+  buy: 4
+  sell: 2
+MUSHROOM_STEM:
+  buy: 4
+  sell: 2
+IRON_BARS:
+  buy: 4
+  sell: 2
+CHAIN:
+  buy: 4
+  sell: 2
+GLASS_PANE:
+  buy: 6
+  sell: 3
+VINE:
+  buy: 4
+  sell: 1
+NETHER_BRICK_FENCE:
+  buy: 3
+  sell: 1
+ENCHANTING_TABLE:
+  buy: 600
+  sell: 450
+ENDER_CHEST:
+  buy: 600
+  sell: 450
+COBBLESTONE_WALL:
+  buy: 3
+  sell: 1
+MOSSY_COBBLESTONE_WALL:
+  buy: 3
+  sell: 1
+BRICK_WALL:
+  buy: 3
+  sell: 1
+PRISMARINE_WALL:
+  buy: 3
+  sell: 1
+RED_SANDSTONE_WALL:
+  buy: 3
+  sell: 1
+MOSSY_STONE_BRICK_WALL:
+  buy: 3
+  sell: 1
+GRANITE_WALL:
+  buy: 3
+  sell: 1
+NETHER_BRICK_WALL:
+  buy: 3
+  sell: 1
+ANDESITE_WALL:
+  buy: 3
+  sell: 1
+RED_NETHER_BRICK_WALL:
+  buy: 3
+  sell: 1
+SANDSTONE_WALL:
+  buy: 3
+  sell: 1
+END_STONE_BRICK_WALL:
+  buy: 3
+  sell: 1
+DIORITE_WALL:
+  buy: 3
+  sell: 1
+BLACKSTONE_WALL:
+  buy: 3
+  sell: 1
+POLISHED_BLACKSTONE_WALL:
+  buy: 3
+  sell: 1
+POLISHED_BLACKSTONE_BRICK_WALL:
+  buy: 3
+  sell: 1
+ANVIL:
+  buy: 230
+  sell: 50
+WHITE_CARPET:
+  buy: 2
+  sell: 1
+ORANGE_CARPET:
+  buy: 2
+  sell: 1
+MAGENTA_CARPET:
+  buy: 2
+  sell: 1
+LIGHT_BLUE_CARPET:
+  buy: 2
+  sell: 1
+YELLOW_CARPET:
+  buy: 2
+  sell: 1
+LIME_CARPET:
+  buy: 2
+  sell: 1
+PINK_CARPET:
+  buy: 2
+  sell: 1
+GRAY_CARPET:
+  buy: 2
+  sell: 1
+LIGHT_GRAY_CARPET:
+  buy: 2
+  sell: 1
+CYAN_CARPET:
+  buy: 2
+  sell: 1
+PURPLE_CARPET:
+  buy: 2
+  sell: 1
+BLUE_CARPET:
+  buy: 2
+  sell: 1
+BROWN_CARPET:
+  buy: 2
+  sell: 1
+RED_CARPET:
+  buy: 2
+  sell: 1
+BLACK_CARPET:
+  buy: 2
+  sell: 1
+SLIME_BLOCK:
+  buy: 10
+  sell: 5
+SUNFLOWER:
+  buy: 4
+  sell: 2
+LILAC:
+  buy: 4
+  sell: 2
+ROSE_BUSH:
+  buy: 4
+  sell: 2
+PEONY:
+  buy: 4
+  sell: 2
+TALL_GRASS:
+  buy: 6
+  sell: 4
+LARGE_FERN:
+  buy: 2
+  sell: 1
+WHITE_STAINED_GLASS_PANE:
+  buy: 3
+  sell: 2
+ORANGE_STAINED_GLASS_PANE:
+  buy: 3
+  sell: 2
+MAGENTA_STAINED_GLASS_PANE:
+  buy: 3
+  sell: 1
+LIGHT_BLUE_STAINED_GLASS_PANE:
+  buy: 3
+  sell: 1
+YELLOW_STAINED_GLASS_PANE:
+  buy: 3
+  sell: 1
+PINK_STAINED_GLASS_PANE:
+  buy: 3
+  sell: 1
+GRAY_STAINED_GLASS_PANE:
+  buy: 3
+  sell: 1
+LIGHT_GRAY_STAINED_GLASS_PANE:
+  buy: 3
+  sell: 1
+CYAN_STAINED_GLASS_PANE:
+  buy: 3
+  sell: 1
+PURPLE_STAINED_GLASS_PANE:
+  buy: 3
+  sell: 1
+BLUE_STAINED_GLASS_PANE:
+  buy: 3
+  sell: 1
+BROWN_STAINED_GLASS_PANE:
+  buy: 3
+  sell: 1
+GREEN_STAINED_GLASS_PANE:
+  buy: 3
+  sell: 1
+RED_STAINED_GLASS_PANE:
+  buy: 3
+  sell: 1
+BLACK_STAINED_GLASS_PANE:
+  buy: 3
+  sell: 1
+SHULKER_BOX:
+  buy: 100
+  sell: 80
+WHITE_SHULKER_BOX:
+  buy: 100
+  sell: 80
+ORANGE_SHULKER_BOX:
+  buy: 100
+  sell: 80
+MAGENTA_SHULKER_BOX:
+  buy: 100
+  sell: 80
+LIGHT_BLUE_SHULKER_BOX:
+  buy: 100
+  sell: 80
+YELLOW_SHULKER_BOX:
+  buy: 100
+  sell: 80
+LIME_SHULKER_BOX:
+  buy: 100
+  sell: 80
+PINK_SHULKER_BOX:
+  buy: 100
+  sell: 80
+GRAY_SHULKER_BOX:
+  buy: 100
+  sell: 80
+LIGHT_GRAY_SHULKER_BOX:
+  buy: 100
+  sell: 80
+CYAN_SHULKER_BOX:
+  buy: 100
+  sell: 80
+PURPLE_SHULKER_BOX:
+  buy: 100
+  sell: 80
+BLUE_SHULKER_BOX:
+  buy: 100
+  sell: 80
+BROWN_SHULKER_BOX:
+  buy: 100
+  sell: 80
+GREEN_SHULKER_BOX:
+  buy: 100
+  sell: 80
+RED_SHULKER_BOX:
+  buy: 100
+  sell: 80
+BLACK_SHULKER_BOX:
+  buy: 100
+  sell: 80
+WHITE_GLAZED_TERRACOTTA:
+  buy: 12
+  sell: 8
+ORANGE_GLAZED_TERRACOTTA:
+  buy: 12
+  sell: 8
+LIGHT_BLUE_GLAZED_TERRACOTTA:
+  buy: 12
+  sell: 8
+YELLOW_GLAZED_TERRACOTTA:
+  buy: 12
+  sell: 8
+LIME_GLAZED_TERRACOTTA:
+  buy: 12
+  sell: 8
+PINK_GLAZED_TERRACOTTA:
+  buy: 12
+  sell: 8
+GRAY_GLAZED_TERRACOTTA:
+  buy: 12
+  sell: 8
+LIGHT_GRAY_GLAZED_TERRACOTTA:
+  buy: 12
+  sell: 8
+CYAN_GLAZED_TERRACOTTA:
+  buy: 12
+  sell: 8
+PURPLE_GLAZED_TERRACOTTA:
+  buy: 12
+  sell: 8
+BLUE_GLAZED_TERRACOTTA:
+  buy: 12
+  sell: 8
+BROWN_GLAZED_TERRACOTTA:
+  buy: 12
+  sell: 8
+GREEN_GLAZED_TERRACOTTA:
+  buy: 12
+  sell: 8
+RED_GLAZED_TERRACOTTA:
+  buy: 12
+  sell: 8
+BLACK_GLAZED_TERRACOTTA:
+  buy: 12
+  sell: 8
+TUBE_CORAL:
+  buy: 6
+  sell: 2
+BRAIN_CORAL:
+  buy: 6
+  sell: 2
+BUBBLE_CORAL:
+  buy: 6
+  sell: 2
+FIRE_CORAL:
+  buy: 6
+  sell: 2
+HORN_CORAL:
+  buy: 6
+  sell: 2
+DEAD_TUBE_CORAL:
+  buy: 3
+  sell: 2
+DEAD_BRAIN_CORAL:
+  buy: 3
+  sell: 2
+DEAD_BUBBLE_CORAL:
+  buy: 3
+  sell: 2
+DEAD_FIRE_CORAL:
+  buy: 3
+  sell: 2
+DEAD_HORN_CORAL:
+  buy: 3
+  sell: 2
+TUBE_CORAL_FAN:
+  buy: 5
+  sell: 2
+BRAIN_CORAL_FAN:
+  buy: 5
+  sell: 2
+FIRE_CORAL_FAN:
+  buy: 5
+  sell: 2
+HORN_CORAL_FAN:
+  buy: 5
+  sell: 2
+DEAD_TUBE_CORAL_FAN:
+  buy: 3
+  sell: 2
+DEAD_BRAIN_CORAL_FAN:
+  buy: 3
+  sell: 2
+DEAD_BUBBLE_CORAL_FAN:
+  buy: 3
+  sell: 2
+DEAD_FIRE_CORAL_FAN:
+  buy: 3
+  sell: 2
+DEAD_HORN_CORAL_FAN:
+  buy: 3
+  sell: 2
+SCAFFOLDING:
+  buy: 4
+  sell: 2
+PAINTING:
+  buy: 6
+  sell: 2
+OAK_SIGN:
+  buy: 3
+  sell: 1
+SPRUCE_SIGN:
+  buy: 3
+  sell: 1
+BIRCH_SIGN:
+  buy: 3
+  sell: 1
+JUNGLE_SIGN:
+  buy: 3
+  sell: 1
+ACACIA_SIGN:
+  buy: 3
+  sell: 1
+DARK_OAK_SIGN:
+  buy: 3
+  sell: 1
+CRIMSON_SIGN:
+  buy: 3
+  sell: 1
+WARPED_SIGN:
+  buy: 3
+  sell: 1
+WHITE_BED:
+  buy: 3
+  sell: 1
+ORANGE_BED:
+  buy: 3
+  sell: 1
+MAGENTA_BED:
+  buy: 3
+  sell: 1
+LIGHT_BLUE_BED:
+  buy: 3
+  sell: 1
+YELLOW_BED:
+  buy: 3
+  sell: 1
+LIME_BED:
+  buy: 3
+  sell: 1
+PINK_BED:
+  buy: 3
+  sell: 1
+GRAY_BED:
+  buy: 3
+  sell: 1
+LIGHT_GRAY_BED:
+  buy: 3
+  sell: 1
+CYAN_BED:
+  buy: 3
+  sell: 1
+PURPLE_BED:
+  buy: 3
+  sell: 1
+BLUE_BED:
+  buy: 3
+  sell: 1
+BROWN_BED:
+  buy: 3
+  sell: 1
+GREEN_BED:
+  buy: 3
+  sell: 1
+RED_BED:
+  buy: 3
+  sell: 1
+BLACK_BED:
+  buy: 3
+  sell: 1
+ITEM_FRAME:
+  buy: 6
+  sell: 2
+FLOWER_POT:
+  buy: 4
+  sell: 2
+ARMOR_STAND:
+  buy: 6
+  sell: 3
+WHITE_BANNER:
+  buy: 4
+  sell: 2
+ORANGE_BANNER:
+  buy: 4
+  sell: 2
+MAGENTA_BANNER:
+  buy: 4
+  sell: 2
+LIGHT_BLUE_BANNER:
+  buy: 4
+  sell: 2
+YELLOW_BANNER:
+  buy: 4
+  sell: 2
+LIME_BANNER:
+  buy: 4
+  sell: 2
+PINK_BANNER:
+  buy: 4
+  sell: 2
+GRAY_BANNER:
+  buy: 4
+  sell: 2
+LIGHT_GRAY_BANNER:
+  buy: 4
+  sell: 2
+CYAN_BANNER:
+  buy: 4
+  sell: 2
+PURPLE_BANNER:
+  buy: 4
+  sell: 2
+BLUE_BANNER:
+  buy: 4
+  sell: 2
+BROWN_BANNER:
+  buy: 4
+  sell: 2
+GREEN_BANNER:
+  buy: 4
+  sell: 2
+RED_BANNER:
+  buy: 4
+  sell: 2
+BLACK_BANNER:
+  buy: 4
+  sell: 2
+END_CRYSTAL:
+  buy: 200
+  sell: 100
+LOOM:
+  buy: 8
+  sell: 3
+SMOKER:
+  buy: 8
+  sell: 3
+BLAST_FURNACE:
+  buy: 8
+  sell: 3
+CARTOGRAPHY_TABLE:
+  buy: 8
+  sell: 3
+FLETCHING_TABLE:
+  buy: 8
+  sell: 3
+GRINDSTONE:
+  buy: 8
+  sell: 3
+BELL:
+  buy: 8
+  sell: 5
+LANTERN:
+  buy: 8
+  sell: 2
+SOUL_LANTERN:
+  buy: 8
+  sell: 2
+CAMPFIRE:
+  buy: 8
+  sell: 2
+SOUL_CAMPFIRE:
+  buy: 8
+  sell: 2
+SHROOMLIGHT:
+  buy: 3
+  sell: 1
+BEEHIVE:
+  buy: 8
+  sell: 2
+HONEY_BLOCK:
+  buy: 10
+  sell: 3
+HONEYCOMB_BLOCK:
+  buy: 10
+  sell: 3
+LODESTONE:
+  buy: 320
+  sell: 200
+RESPAWN_ANCHOR:
+  buy: 150
+  sell: 100
+DISPENSER:
+  buy: 10
+  sell: 8
+NOTE_BLOCK:
+  buy: 10
+  sell: 8
+STICKY_PISTON:
+  buy: 30
+  sell: 20
+PISTON:
+  buy: 15
+  sell: 8
+TNT:
+  buy: 20
+  sell: 8
+LEVER:
+  buy: 5
+  sell: 3
+STONE_PRESSURE_PLATE:
+  buy: 5
+  sell: 3
+OAK_PRESSURE_PLATE:
+  buy: 5
+  sell: 3
+SPRUCE_PRESSURE_PLATE:
+  buy: 5
+  sell: 3
+BIRCH_PRESSURE_PLATE:
+  buy: 5
+  sell: 3
+JUNGLE_PRESSURE_PLATE:
+  buy: 5
+  sell: 3
+ACACIA_PRESSURE_PLATE:
+  buy: 5
+  sell: 3
+DARK_OAK_PRESSURE_PLATE:
+  buy: 5
+  sell: 3
+CRIMSON_PRESSURE_PLATE:
+  buy: 5
+  sell: 3
+WARPED_PRESSURE_PLATE:
+  buy: 5
+  sell: 3
+POLISHED_BLACKSTONE_PRESSURE_PLATE:
+  buy: 5
+  sell: 3
+REDSTONE_TORCH:
+  buy: 8
+  sell: 3
+OAK_TRAPDOOR:
+  buy: 3
+  sell: 1
+SPRUCE_TRAPDOOR:
+  buy: 3
+  sell: 1
+BIRCH_TRAPDOOR:
+  buy: 3
+  sell: 1
+JUNGLE_TRAPDOOR:
+  buy: 3
+  sell: 1
+ACACIA_TRAPDOOR:
+  buy: 3
+  sell: 1
+DARK_OAK_TRAPDOOR:
+  buy: 3
+  sell: 1
+CRIMSON_TRAPDOOR:
+  buy: 3
+  sell: 1
+WARPED_TRAPDOOR:
+  buy: 3
+  sell: 1
+OAK_FENCE_GATE:
+  buy: 3
+  sell: 1
+SPRUCE_FENCE_GATE:
+  buy: 3
+  sell: 1
+BIRCH_FENCE_GATE:
+  buy: 3
+  sell: 1
+JUNGLE_FENCE_GATE:
+  buy: 3
+  sell: 1
+ACACIA_FENCE_GATE:
+  buy: 3
+  sell: 1
+DARK_OAK_FENCE_GATE:
+  buy: 3
+  sell: 1
+CRIMSON_FENCE_GATE:
+  buy: 3
+  sell: 1
+WARPED_FENCE_GATE:
+  buy: 3
+  sell: 1
+REDSTONE_LAMP:
+  buy: 8
+  sell: 4
+TRIPWIRE_HOOK:
+  buy: 5
+  sell: 3
+STONE_BUTTON:
+  buy: 2
+  sell: 1
+OAK_BUTTON:
+  buy: 2
+  sell: 1
+SPRUCE_BUTTON:
+  buy: 2
+  sell: 1
+BIRCH_BUTTON:
+  buy: 2
+  sell: 1
+JUNGLE_BUTTON:
+  buy: 2
+  sell: 1
+ACACIA_BUTTON:
+  buy: 2
+  sell: 1
+DARK_OAK_BUTTON:
+  buy: 2
+  sell: 1
+CRIMSON_BUTTON:
+  buy: 2
+  sell: 1
+WARPED_BUTTON:
+  buy: 2
+  sell: 1
+POLISHED_BLACKSTONE_BUTTON:
+  buy: 2
+  sell: 1
+TRAPPED_CHEST:
+  buy: 8
+  sell: 2
+LIGHT_WEIGHTED_PRESSURE_PLATE:
+  buy: 14
+  sell: 7
+HEAVY_WEIGHTED_PRESSURE_PLATE:
+  buy: 10
+  sell: 5
+DAYLIGHT_DETECTOR:
+  buy: 7
+  sell: 3
+REDSTONE_BLOCK:
+  buy: 100
+  sell: 80
+HOPPER:
+  buy: 8
+  sell: 3
+DROPPER:
+  buy: 8
+  sell: 3
+IRON_TRAPDOOR:
+  buy: 5
+  sell: 1
+OBSERVER:
+  buy: 8
+  sell: 3
+IRON_DOOR:
+  buy: 8
+  sell: 3
+OAK_DOOR:
+  buy: 3
+  sell: 1
+SPRUCE_DOOR:
+  buy: 3
+  sell: 1
+BIRCH_DOOR:
+  buy: 3
+  sell: 1
+JUNGLE_DOOR:
+  buy: 3
+  sell: 1
+ACACIA_DOOR:
+  buy: 3
+  sell: 1
+DARK_OAK_DOOR:
+  buy: 3
+  sell: 1
+CRIMSON_DOOR:
+  buy: 3
+  sell: 1
+WARPED_DOOR:
+  buy: 3
+  sell: 1
+REPEATER:
+  buy: 8
+  sell: 3
+COMPARATOR:
+  buy: 8
+  sell: 3
+REDSTONE:
+  buy: 10
+  sell: 6
+LECTERN:
+  buy: 8
+  sell: 3
+TARGET:
+  buy: 8
+  sell: 3
+POWERED_RAIL:
+  buy: 7
+  sell: 3
+DETECTOR_RAIL:
+  buy: 7
+  sell: 3
+RAIL:
+  buy: 6
+  sell: 3
+ACTIVATOR_RAIL:
+  buy: 7
+  sell: 3
+MINECART:
+  buy: 7
+  sell: 3
+SADDLE:
+  buy: 30
+  sell: 12
+OAK_BOAT:
+  buy: 3
+  sell: 1
+CHEST_MINECART:
+  buy: 8
+  sell: 3
+FURNACE_MINECART:
+  buy: 8
+  sell: 3
+CARROT_ON_A_STICK:
+  buy: 8
+  sell: 3
+WARPED_FUNGUS_ON_A_STICK:
+  buy: 8
+  sell: 3
+TNT_MINECART:
+  buy: 8
+  sell: 3
+HOPPER_MINECART:
+  buy: 8
+  sell: 3
+ELYTRA:
+  buy: 300
+  sell: 120
+SPRUCE_BOAT:
+  buy: 3
+  sell: 1
+BIRCH_BOAT:
+  buy: 3
+  sell: 1
+JUNGLE_BOAT:
+  buy: 3
+  sell: 1
+ACACIA_BOAT:
+  buy: 3
+  sell: 1
+DARK_OAK_BOAT:
+  buy: 3
+  sell: 1
+BEACON:
+  buy: 350
+  sell: 140
+COAL:
+  buy: 15
+  sell: 10
+CHARCOAL:
+  buy: 10
+  sell: 8
+DIAMOND:
+  buy: 40
+  sell: 32
+IRON_INGOT:
+  buy: 15
+  sell: 10
+GOLD_INGOT:
+  buy: 20
+  sell: 8
+NETHERITE_INGOT:
+  buy: 4000
+  sell: 3200
+NETHERITE_SCRAP:
+  buy: 1000
+  sell: 700
+STICK:
+  buy: 2
+  sell: 1
+BOWL:
+  buy: 2
+  sell: 1
+STRING:
+  buy: 3
+  sell: 1
+FEATHER:
+  buy: 2
+  sell: 1
+GUNPOWDER:
+  buy: 4
+  sell: 2
+WHEAT_SEEDS:
+  buy: 2
+  sell: 1
+WHEAT:
+  buy: 3
+  sell: 1
+FLINT:
+  buy: 3
+  sell: 1
+BUCKET:
+  buy: 40
+  sell: 20
+WATER_BUCKET:
+  buy: 45
+  sell: 25
+LAVA_BUCKET:
+  buy: 50
+  sell: 30
+SNOWBALL:
+  buy: 2
+  sell: 1
+LEATHER:
+  buy: 4
+  sell: 1
+MILK_BUCKET:
+  buy: 44
+  sell: 20
+PUFFERFISH_BUCKET:
+  buy: 40
+  sell: 24
+SALMON_BUCKET:
+  buy: 40
+  sell: 15
+COD_BUCKET:
+  buy: 40
+  sell: 15
+BRICK:
+  buy: 4
+  sell: 2
+CLAY_BALL:
+  buy: 3
+  sell: 1
+PAPER:
+  buy: 3
+  sell: 1
+BOOK:
+  buy: 4
+  sell: 2
+SLIME_BALL:
+  buy: 10
+  sell: 4
+EGG:
+  buy: 3
+  sell: 2
+GLOWSTONE_DUST:
+  buy: 3
+  sell: 2
+INK_SAC:
+  buy: 3
+  sell: 2
+RED_DYE:
+  buy: 3
+  sell: 1
+GREEN_DYE:
+  buy: 3
+  sell: 1
+COCOA_BEANS:
+  buy: 3
+  sell: 1
+LAPIS_LAZULI:
+  buy: 12
+  sell: 5
+PURPLE_DYE:
+  buy: 3
+  sell: 1
+CYAN_DYE:
+  buy: 3
+  sell: 1
+LIGHT_GRAY_DYE:
+  buy: 3
+  sell: 1
+GRAY_DYE:
+  buy: 3
+  sell: 1
+PINK_DYE:
+  buy: 3
+  sell: 1
+LIME_DYE:
+  buy: 3
+  sell: 1
+YELLOW_DYE:
+  buy: 3
+  sell: 1
+LIGHT_BLUE_DYE:
+  buy: 3
+  sell: 1
+MAGENTA_DYE:
+  buy: 3
+  sell: 1
+ORANGE_DYE:
+  buy: 3
+  sell: 1
+BONE_MEAL:
+  buy: 3
+  sell: 1
+BLUE_DYE:
+  buy: 3
+  sell: 1
+BROWN_DYE:
+  buy: 3
+  sell: 1
+BLACK_DYE:
+  buy: 3
+  sell: 1
+WHITE_DYE:
+  buy: 3
+  sell: 1
+BONE:
+  buy: 30
+  sell: 12
+PUMPKIN_SEEDS:
+  buy: 2
+  sell: 1
+MELON_SEEDS:
+  buy: 2
+  sell: 1
+ENDER_PEARL:
+  buy: 120
+  sell: 85
+BLAZE_ROD:
+  buy: 120
+  sell: 85
+GOLD_NUGGET:
+  buy: 3
+  sell: 1
+NETHER_WART:
+  buy: 2
+  sell: 1
+ENDER_EYE:
+  buy: 200
+  sell: 100
+EXPERIENCE_BOTTLE:
+  buy: 50
+  sell: 40
+FIRE_CHARGE:
+  buy: 4
+  sell: 2
+WRITABLE_BOOK:
+  buy: 9
+  sell: 7
+KNOWLEDGE_BOOK:
+  buy: 1
+  sell: 1
+EMERALD:
+  buy: 14
+  sell: 12
+MAP:
+  buy: 12
+  sell: 6
+NETHER_STAR:
+  buy: 200
+  sell: 180
+FIREWORK_ROCKET:
+  buy: 10
+  sell: 8
+FIREWORK_STAR:
+  buy: 9
+  sell: 7
+NETHER_BRICK:
+  buy: 2
+  sell: 1
+QUARTZ:
+  buy: 3
+  sell: 1
+PRISMARINE_SHARD:
+  buy: 3
+  sell: 1
+PRISMARINE_CRYSTALS:
+  buy: 3
+  sell: 1
+RABBIT_HIDE:
+  buy: 6
+  sell: 3
+IRON_HORSE_ARMOR:
+  buy: 100
+  sell: 80
+GOLDEN_HORSE_ARMOR:
+  buy: 110
+  sell: 85
+DIAMOND_HORSE_ARMOR:
+  buy: 120
+  sell: 90
+LEATHER_HORSE_ARMOR:
+  buy: 70
+  sell: 60
+CHORUS_FRUIT:
+  buy: 10
+  sell: 4
+POPPED_CHORUS_FRUIT:
+  buy: 10
+  sell: 4
+IRON_NUGGET:
+  buy: 2
+  sell: 1
+MUSIC_DISC_13:
+  buy: 50
+  sell: 40
+MUSIC_DISC_CAT:
+  buy: 50
+  sell: 40
+MUSIC_DISC_BLOCKS:
+  buy: 50
+  sell: 40
+MUSIC_DISC_CHIRP:
+  buy: 50
+  sell: 40
+MUSIC_DISC_FAR:
+  buy: 50
+  sell: 40
+MUSIC_DISC_MALL:
+  buy: 50
+  sell: 40
+MUSIC_DISC_MELLOHI:
+  buy: 50
+  sell: 40
+MUSIC_DISC_STAL:
+  buy: 50
+  sell: 40
+MUSIC_DISC_STRAD:
+  buy: 50
+  sell: 40
+MUSIC_DISC_WARD:
+  buy: 50
+  sell: 40
+MUSIC_DISC_11:
+  buy: 50
+  sell: 40
+MUSIC_DISC_WAIT:
+  buy: 50
+  sell: 40
+MUSIC_DISC_PIGSTEP:
+  buy: 50
+  sell: 40
+NAUTILUS_SHELL:
+  buy: 4
+  sell: 2
+HEART_OF_THE_SEA:
+  buy: 100
+  sell: 20
+HONEYCOMB:
+  buy: 18
+  sell: 14
+APPLE:
+  buy: 3
+  sell: 1
+MUSHROOM_STEW:
+  buy: 3
+  sell: 2
+BREAD:
+  buy: 3
+  sell: 1
+PORKCHOP:
+  buy: 4
+  sell: 1
+COOKED_PORKCHOP:
+  buy: 5
+  sell: 2
+GOLDEN_APPLE:
+  buy: 50
+  sell: 18
+COD:
+  buy: 3
+  sell: 1
+SALMON:
+  buy: 3
+  sell: 1
+TROPICAL_FISH:
+  buy: 3
+  sell: 1
+PUFFERFISH:
+  buy: 2
+  sell: 1
+COOKED_COD:
+  buy: 4
+  sell: 1
+COOKED_SALMON:
+  buy: 4
+  sell: 2
+CAKE:
+  buy: 10
+  sell: 4
+COOKIE:
+  buy: 2
+  sell: 1
+MELON_SLICE:
+  buy: 2
+  sell: 1
+DRIED_KELP:
+  buy: 2
+  sell: 1
+BEEF:
+  buy: 3
+  sell: 1
+COOKED_BEEF:
+  buy: 4
+  sell: 2
+CHICKEN:
+  buy: 3
+  sell: 1
+COOKED_CHICKEN:
+  buy: 4
+  sell: 2
+ROTTEN_FLESH:
+  buy: 2
+  sell: 1
+SPIDER_EYE:
+  buy: 2
+  sell: 1
+CARROT:
+  buy: 2
+  sell: 1
+POTATO:
+  buy: 2
+  sell: 1
+BAKED_POTATO:
+  buy: 3
+  sell: 2
+PUMPKIN_PIE:
+  buy: 4
+  sell: 2
+RABBIT:
+  buy: 3
+  sell: 1
+COOKED_RABBIT:
+  buy: 4
+  sell: 2
+RABBIT_STEW:
+  buy: 5
+  sell: 3
+MUTTON:
+  buy: 3
+  sell: 1
+COOKED_MUTTON:
+  buy: 5
+  sell: 2
+BEETROOT:
+  buy: 2
+  sell: 1
+BEETROOT_SOUP:
+  buy: 6
+  sell: 2
+HONEY_BOTTLE:
+  buy: 6
+  sell: 3
+FLINT_AND_STEEL:
+  buy: 5
+  sell: 2
+WOODEN_SHOVEL:
+  buy: 2
+  sell: 1
+WOODEN_PICKAXE:
+  buy: 2
+  sell: 1
+WOODEN_AXE:
+  buy: 2
+  sell: 1
+WOODEN_HOE:
+  buy: 2
+  sell: 1
+STONE_SHOVEL:
+  buy: 3
+  sell: 1
+STONE_PICKAXE:
+  buy: 3
+  sell: 1
+STONE_AXE:
+  buy: 3
+  sell: 1
+STONE_HOE:
+  buy: 3
+  sell: 1
+GOLDEN_SHOVEL:
+  buy: 3
+  sell: 1
+GOLDEN_PICKAXE:
+  buy: 4
+  sell: 1
+GOLDEN_AXE:
+  buy: 4
+  sell: 1
+GOLDEN_HOE:
+  buy: 4
+  sell: 1
+IRON_SHOVEL:
+  buy: 20
+  sell: 1
+IRON_PICKAXE:
+  buy: 20
+  sell: 1
+IRON_AXE:
+  buy: 20
+  sell: 1
+IRON_HOE:
+  buy: 20
+  sell: 1
+DIAMOND_SHOVEL:
+  buy: 180
+  sell: 5
+DIAMOND_PICKAXE:
+  buy: 180
+  sell: 5
+DIAMOND_AXE:
+  buy: 180
+  sell: 5
+DIAMOND_HOE:
+  buy: 180
+  sell: 5
+NETHERITE_SHOVEL:
+  buy: 9000
+  sell: 50
+NETHERITE_PICKAXE:
+  buy: 9000
+  sell: 50
+NETHERITE_AXE:
+  buy: 9000
+  sell: 50
+NETHERITE_HOE:
+  buy: 9000
+  sell: 50
+COMPASS:
+  buy: 5
+  sell: 2
+CLOCK:
+  buy: 5
+  sell: 2
+SHEARS:
+  buy: 4
+  sell: 1
+LEAD:
+  buy: 6
+  sell: 3
+NAME_TAG:
+  buy: 8
+  sell: 4
+BOW:
+  buy: 10
+  sell: 4
+ARROW:
+  buy: 2
+  sell: 1
+IRON_SWORD:
+  buy: 20
+  sell: 1
+WOODEN_SWORD:
+  buy: 2
+  sell: 1
+STONE_SWORD:
+  buy: 3
+  sell: 1
+DIAMOND_SWORD:
+  buy: 180
+  sell: 5
+GOLDEN_SWORD:
+  buy: 5
+  sell: 1
+NETHERITE_SWORD:
+  buy: 9000
+  sell: 50
+LEATHER_HELMET:
+  buy: 3
+  sell: 2
+LEATHER_CHESTPLATE:
+  buy: 10
+  sell: 2
+LEATHER_LEGGINGS:
+  buy: 8
+  sell: 2
+LEATHER_BOOTS:
+  buy: 3
+  sell: 2
+IRON_HELMET:
+  buy: 30
+  sell: 10
+IRON_CHESTPLATE:
+  buy: 60
+  sell: 10
+IRON_LEGGINGS:
+  buy: 45
+  sell: 10
+IRON_BOOTS:
+  buy: 30
+  sell: 10
+DIAMOND_HELMET:
+  buy: 150
+  sell: 50
+DIAMOND_CHESTPLATE:
+  buy: 300
+  sell: 50
+DIAMOND_LEGGINGS:
+  buy: 250
+  sell: 50
+DIAMOND_BOOTS:
+  buy: 150
+  sell: 50
+GOLDEN_HELMET:
+  buy: 50
+  sell: 10
+GOLDEN_CHESTPLATE:
+  buy: 70
+  sell: 10
+GOLDEN_LEGGINGS:
+  buy: 60
+  sell: 10
+GOLDEN_BOOTS:
+  buy: 50
+  sell: 10
+NETHERITE_HELMET:
+  buy: 5000
+  sell: 100
+NETHERITE_CHESTPLATE:
+  buy: 10000
+  sell: 100
+NETHERITE_LEGGINGS:
+  buy: 8000
+  sell: 100
+NETHERITE_BOOTS:
+  buy: 5000
+  sell: 100
+SPECTRAL_ARROW:
+  buy: 3
+  sell: 2
+SHIELD:
+  buy: 8
+  sell: 4
+TOTEM_OF_UNDYING:
+  buy: 120
+  sell: 90
+TRIDENT:
+  buy: 30
+  sell: 12
+CROSSBOW:
+  buy: 20
+  sell: 10
+GHAST_TEAR:
+  buy: 7
+  sell: 4
+GLASS_BOTTLE:
+  buy: 3
+  sell: 2
+FERMENTED_SPIDER_EYE:
+  buy: 9
+  sell: 3
+BLAZE_POWDER:
+  buy: 9
+  sell: 3
+MAGMA_CREAM:
+  buy: 9
+  sell: 3
+BREWING_STAND:
+  buy: 50
+  sell: 10
+CAULDRON:
+  buy: 40
+  sell: 15
+GLISTERING_MELON_SLICE:
+  buy: 9
+  sell: 3
+GOLDEN_CARROT:
+  buy: 20
+  sell: 10
+RABBIT_FOOT:
+  buy: 9
+  sell: 3
+DRAGON_BREATH:
+  buy: 80
+  sell: 60
+PHANTOM_MEMBRANE:
+  buy: 50
+  sell: 20

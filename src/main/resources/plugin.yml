@@ -1,0 +1,14 @@
+name: RevoCraft
+version: '${project.version}'
+main: com.amedouhu.revocraft.RevoCraft
+api-version: '1.20'
+commands:
+  buy:
+    description: アイテムを購入します。
+    usage: /buy
+  sell:
+    description: アイテムを売却します。
+    usage: /sell
+  send:
+    description: ユーザに送金します。
+    usage: /send

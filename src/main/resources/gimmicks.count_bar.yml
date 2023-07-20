@@ -1,0 +1,9 @@
+count: 300
+request: 10000
+interest: 0.2
+output: true
+color: RED
+style: SEGMENTED_6
+title: 引き落としは${score}秒後に行われます。
+kick: 支払いを滞納した為、Banされました。
+ban: 支払いを滞納した為、Banされています。/sendを使用して他のユーザが振り込むと、解除されます。
